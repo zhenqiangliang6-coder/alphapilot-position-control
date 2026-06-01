@@ -307,7 +307,7 @@ def init(context):
         auction_strat=auction_strat,  # 【关键修复】传入竞价策略，支持心跳触发
         position_control=position_control  # ⭐ 新增：传入仓位控制器
     )
-
+    heartbeat_monitor.start()  # ⭐【关键修复】启动心跳线程
 
     # ==================== 第八步：订阅行情数据====================
     subscribe(symbols=settings.SUBSCRIBE_SYMBOLS, frequency='60s', count=100)

@@ -466,7 +466,11 @@ if __name__ == '__main__':
         backtest_slippage_ratio: 回测滑点比例
         backtest_match_mode: 市价撮合模式 - 0(以下一tick/bar开盘价撮合) / 1(以当前tick/bar收盘价撮合)
     """
-    run(strategy_id='a62d366d-3c78-11f1-8563-1ece51d839d6',
+    if not settings.STRATEGY_ID:
+        raise ValueError('请在 .env 中配置 STRATEGY_ID=your_strategy_id')
+
+    set_token(settings.GM_TOKEN)
+    run(strategy_id=settings.STRATEGY_ID,
         filename='main.py',
         mode=MODE_LIVE,
-        token='fdf08e9d00c4da3b635c2616724ddae3f7793562')
+        token=settings.GM_TOKEN)

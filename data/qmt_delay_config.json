@@ -1,0 +1,66 @@
+{
+    "688025": {
+        "name": "杰普特",
+        "type": "delayed",
+        "delay_days": 3,
+        "min_volume_ratio": 1.5,
+        "target_day_min_vr": 0.2,
+        "note": "涨停前 3 天量比最大信号触发（量比=1.5）"
+    },
+    "600962": {
+        "name": "国投中鲁",
+        "type": "delayed",
+        "delay_days": 7,
+        "min_volume_ratio": 9.01,
+        "target_day_min_vr": 0.2,
+        "note": "涨停前 7 天量比最大信号触发（量比=9.01）"
+    },
+    "603052": {
+        "name": "可川科技",
+        "type": "delayed",
+        "delay_days": 5,
+        "min_volume_ratio": 2.28,
+        "target_day_min_vr": 0.2,
+        "note": "涨停前 5 天量比最大信号触发（量比=2.28）"
+    },
+    "603178": {
+        "name": "圣龙股份",
+        "type": "delayed",
+        "delay_days": 3,
+        "min_volume_ratio": 1.98,
+        "target_day_min_vr": 0.2,
+        "note": "涨停前 3 天量比最大信号触发（量比=1.98）"
+    },
+    "601991": {
+        "name": "大唐发电",
+        "type": "delayed",
+        "delay_days": 5,
+        "min_volume_ratio": 1.25,
+        "target_day_min_vr": 0.2,
+        "note": "涨停前 5 天量比最大信号触发（量比=1.25）"
+    },
+    "301458": {
+        "name": "钧崴电子",
+        "type": "delayed",
+        "delay_days": 1,
+        "min_volume_ratio": 0.92,
+        "target_day_min_vr": 0.2,
+        "note": "涨停前 1 天量比最大信号触发（量比=0.92）"
+    },
+    "300626": {
+        "name": "华瑞股份",
+        "type": "delayed",
+        "delay_days": 6,
+        "min_volume_ratio": 5.16,
+        "target_day_min_vr": 0.2,
+        "note": "涨停前 6 天量比最大信号触发（量比=5.16）"
+    },
+    "301128": {
+        "name": "强瑞技术",
+        "type": "delayed",
+        "delay_days": 3,
+        "min_volume_ratio": 1.33,
+        "target_day_min_vr": 0.2,
+        "note": "涨停前 3 天量比最大信号触发（量比=1.33）"
+    }
+}

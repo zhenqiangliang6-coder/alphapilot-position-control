@@ -83,7 +83,7 @@ SINGLE_ORDER_CASH_RATIO = 0.8   # 每次买入可用现金比例（80%）
 FIXED_ORDER_AMOUNT = 50000.0    # 单次买入金额上限（5 万元）
 
 # --- [仓位管理] ---
-INITIAL_CAPITAL_RATIO = 0.5     # 初始仓位比例（50% 总资金）
+INITIAL_CAPITAL_RATIO = 0.5    # 初始仓位比例（50% 总资金）
 MAX_STOCK_COUNT = 20            # 最大持仓股票数量
 
 # --- [风控策略 - V9.1] ---
@@ -96,11 +96,11 @@ STOP_LOSS_END_TIME = "1450"             # 硬止损结束执行时间（14:50 �
 ENABLE_HARD_STOP = True                 # 硬止损开关
 
 # --- [动态止盈策略 - V9.1] ---
-TAKE_PROFIT_EARLIEST_TIME = "0951"      # 动态止盈最早执行时间（09:51），避开开盘剧烈波动
+TAKE_PROFIT_EARLIEST_TIME = "0935"      # 动态止盈最早执行时间（09:46），避开开盘剧烈波动
 # 第一级：快速止盈（所有股票）
 TAKE_PROFIT_LEVEL1_GAIN_THRESHOLD = 0.025    # 上涨 2.5%
 TAKE_PROFIT_LEVEL1_GAIN_MAX = 0.089         # 涨幅上限 8.9%（超过此值不执行第一级，交由第二/三级处理）
-TAKE_PROFIT_LEVEL1_DROP_THRESHOLD = 0.013   # 回落 1.3%
+TAKE_PROFIT_LEVEL1_DROP_THRESHOLD = 0.015   # 回落 1.5%
 # 第二级：波段止盈（60/00 开头股票）
 TAKE_PROFIT_LEVEL2_GAIN_THRESHOLD = 0.09    # 上涨 9%
 TAKE_PROFIT_LEVEL2_HOLD_MINUTES = 5        # 持有 5 分钟

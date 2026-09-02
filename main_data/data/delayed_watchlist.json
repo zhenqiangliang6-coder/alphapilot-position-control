@@ -1,0 +1,185 @@
+{
+  "last_update": "2026-04-27 13:40:18",
+  "watchlist": {
+    "SZSE.002364": {
+      "name": "中恒电器",
+      "action": "BUY",
+      "signal_date": "2026-04-16",
+      "target_date": "2026-04-28",
+      "trigger_price": 42.9,
+      "trigger_volume_ratio": 2.11,
+      "status": "waiting",
+      "delay_days": 8
+    },
+    "SZSE.300626": {
+      "name": "华测导航",
+      "action": "BUY",
+      "signal_date": "2026-04-19",
+      "target_date": "2026-04-27",
+      "trigger_price": 28.2,
+      "trigger_volume_ratio": 4.11,
+      "status": "waiting",
+      "delay_days": 6
+    },
+    "SHSE.603353": {
+      "name": "和顺电气",
+      "action": "BUY",
+      "signal_date": "2026-04-19",
+      "target_date": "2026-04-27",
+      "trigger_price": 39.01,
+      "trigger_volume_ratio": 2.11,
+      "status": "waiting",
+      "delay_days": 6
+    },
+    "SZSE.002475": {
+      "name": "立讯精密",
+      "action": "BUY",
+      "signal_date": "2026-04-20",
+      "target_date": "2026-04-27",
+      "trigger_price": 62.5,
+      "trigger_volume_ratio": 1.31,
+      "status": "waiting",
+      "delay_days": 5
+    },
+    "SZSE.002300": {
+      "name": "太阳电缆",
+      "action": "BUY",
+      "signal_date": "2026-04-21",
+      "target_date": "2026-04-27",
+      "trigger_price": 10.34,
+      "trigger_volume_ratio": 2.96,
+      "status": "waiting",
+      "delay_days": 4
+    },
+    "SZSE.000407": {
+      "name": "胜利股份",
+      "action": "BUY",
+      "signal_date": "2026-04-22",
+      "target_date": "2026-04-30",
+      "trigger_price": 4.69,
+      "trigger_volume_ratio": 3.15,
+      "status": "waiting",
+      "delay_days": 6
+    },
+    "SZSE.300461": {
+      "name": "田中精机",
+      "action": "BUY",
+      "signal_date": "2026-04-22",
+      "target_date": "2026-04-27",
+      "trigger_price": 63.96,
+      "trigger_volume_ratio": 1.33,
+      "status": "waiting",
+      "delay_days": 3
+    },
+    "SZSE.002828": {
+      "name": "贝肯能源",
+      "action": "BUY",
+      "signal_date": "2026-04-23",
+      "target_date": "2026-04-28",
+      "trigger_price": 11.71,
+      "trigger_volume_ratio": 1.56,
+      "status": "waiting",
+      "delay_days": 3
+    },
+    "SZSE.000510": {
+      "name": "新金路",
+      "action": "BUY",
+      "signal_date": "2026-04-23",
+      "target_date": "2026-04-28",
+      "trigger_price": 13.68,
+      "trigger_volume_ratio": 0.84,
+      "status": "waiting",
+      "delay_days": 3
+    },
+    "SZSE.002445": {
+      "name": "中南文化",
+      "action": "BUY",
+      "signal_date": "2026-04-23",
+      "target_date": "2026-04-27",
+      "trigger_price": 3.38,
+      "trigger_volume_ratio": 2.61,
+      "status": "waiting",
+      "delay_days": 2
+    },
+    "SZSE.301165": {
+      "name": "锐捷网络",
+      "action": "BUY",
+      "signal_date": "2026-04-26",
+      "target_date": "2026-04-27",
+      "trigger_price": 100.46,
+      "trigger_volume_ratio": 1.78,
+      "status": "waiting",
+      "delay_days": 1
+    },
+    "SHSE.601016": {
+      "name": "节能风电",
+      "action": "BUY",
+      "signal_date": "2026-04-27",
+      "target_date": "2026-04-28",
+      "trigger_price": 4.27,
+      "trigger_volume_ratio": 3.55,
+      "status": "waiting",
+      "delay_days": 1
+    },
+    "SZSE.301226": {
+      "name": "祥明智能",
+      "action": "BUY",
+      "signal_date": "2026-04-27",
+      "target_date": "2026-05-01",
+      "trigger_price": 39.15,
+      "trigger_volume_ratio": 4.02,
+      "status": "waiting",
+      "delay_days": 4
+    },
+    "SZSE.301018": {
+      "name": "申菱环境",
+      "action": "BUY",
+      "signal_date": "2026-04-27",
+      "target_date": "2026-04-28",
+      "trigger_price": 126.4,
+      "trigger_volume_ratio": 0.59,
+      "status": "waiting",
+      "delay_days": 1
+    },
+    "SZSE.000912": {
+      "name": "泸天化",
+      "action": "BUY",
+      "signal_date": "2026-04-27",
+      "target_date": "2026-05-01",
+      "trigger_price": 5.1,
+      "trigger_volume_ratio": 2.53,
+      "status": "waiting",
+      "delay_days": 4
+    },
+    "SHSE.600726": {
+      "name": "华电能源",
+      "action": "BUY",
+      "signal_date": "2026-04-27",
+      "target_date": "2026-04-30",
+      "trigger_price": 6.32,
+      "trigger_volume_ratio": 6.24,
+      "status": "waiting",
+      "delay_days": 3
+    },
+    "SZSE.000677": {
+      "name": "恒天海龙",
+      "action": "BUY",
+      "signal_date": "2026-04-27",
+      "target_date": "2026-04-28",
+      "trigger_price": 3.81,
+      "trigger_volume_ratio": 1.89,
+      "status": "waiting",
+      "delay_days": 1
+    },
+    "SZSE.002679": {
+      "name": "福建金森",
+      "action": "BUY",
+      "signal_date": "2026-04-27",
+      "target_date": "2026-04-29",
+      "trigger_price": 10.5,
+      "trigger_volume_ratio": 2.54,
+      "status": "waiting",
+      "delay_days": 2
+    }
+  }
+}

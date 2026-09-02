@@ -4,23 +4,23 @@
     "type": "delayed",
     "delay_days": 6,
     "min_volume_ratio": 0.86,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 0.7,
     "note": "涨停前 6 天量比最大信号触发（量比=0.86）"
   },
   "000510": {
     "name": "新金路",
     "type": "delayed",
     "delay_days": 3,
-    "min_volume_ratio": 0.37,
-    "target_day_min_vr": 0.2,
-    "note": "涨停前 3 天量比最大信号触发（量比=0.37）"
+    "min_volume_ratio": 3.62,
+    "target_day_min_vr": 2.2,
+    "note": "涨停前 3 天量比最大信号触发（量比=3.62）"
   },
   "000537": {
     "name": "绿发电力",
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 3.8,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 2.2,
     "note": "涨停前 1 天量比最大信号触发（量比=3.8）"
   },
   "000677": {
@@ -28,7 +28,7 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 0.83,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 0.6,
     "note": "涨停前 1 天量比最大信号触发（量比=0.83）"
   },
   "000912": {
@@ -44,7 +44,7 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 3.8,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr":2.2,
     "note": "涨停前 1 天量比最大信号触发（量比=3.8）"
   },
   "002046": {
@@ -68,7 +68,7 @@
     "type": "delayed",
     "delay_days": 6,
     "min_volume_ratio": 1.33,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 0.7,
     "note": "涨停前 6 天量比最大信号触发（量比=1.33）"
   },
   "002298": {
@@ -76,7 +76,7 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 3.01,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr":2.2,
     "note": "涨停前 1 天量比最大信号触发（量比=3.01）"
   },
   "002300": {
@@ -84,7 +84,7 @@
     "type": "delayed",
     "delay_days": 4,
     "min_volume_ratio": 3.36,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 2.2,
     "note": "涨停前 4 天量比最大信号触发（量比=3.36）"
   },
   "002364": {
@@ -100,7 +100,7 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 3.9,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 2.2,
     "note": "涨停前 1 天量比最大信号触发（量比=3.9）"
   },
   "002445": {
@@ -108,7 +108,7 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 3.96,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 2.2,
     "note": "涨停前 1 天量比最大信号触发（量比=3.96）"
   },
   "002455": {
@@ -116,7 +116,7 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 4.19,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 2.2,
     "note": "涨停前 1 天量比最大信号触发（量比=4.19）"
   },
   "002456": {
@@ -138,7 +138,7 @@
     "type": "delayed",
     "delay_days": 3,
     "min_volume_ratio": 0.7,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 0.5,
     "note": "涨停前 3 天量比最大信号触发（量比=0.7）"
   },
   "002679": {
@@ -146,7 +146,7 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 1.11,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 0.8,
     "note": "涨停前 1 天量比最大信号触发（量比=1.11）"
   },
   "002828": {
@@ -154,7 +154,7 @@
     "type": "delayed",
     "delay_days": 3,
     "min_volume_ratio": 1.52,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 1.2,
     "note": "涨停前 3 天量比最大信号触发（量比=1.52）"
   },
   "002980": {
@@ -162,7 +162,7 @@
     "type": "delayed",
     "delay_days": 2,
     "min_volume_ratio": 0.81,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 0.6,
     "note": "涨停前 2 天量比最大信号触发（量比=0.81）"
   },
   "300345": {
@@ -170,7 +170,7 @@
     "type": "delayed",
     "delay_days": 3,
     "min_volume_ratio": 3.03,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 2.2,
     "note": "涨停前 3 天量比最大信号触发（量比=3.03）"
   },
   "300383": {
@@ -186,7 +186,7 @@
     "type": "delayed",
     "delay_days": 4,
     "min_volume_ratio": 4.09,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr":3.2,
     "note": "涨停前 4 天量比最大信号触发（量比=4.09）"
   },
   "300390": {
@@ -194,7 +194,7 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 1.29,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 0.8,
     "note": "涨停前 1 天量比最大信号触发（量比=1.29）"
   },
   "300444": {
@@ -210,7 +210,7 @@
     "type": "delayed",
     "delay_days": 2,
     "min_volume_ratio": 0.95,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 0.6,
     "note": "涨停前 2 天量比最大信号触发（量比=0.95）"
   },
   "300626": {
@@ -218,7 +218,7 @@
     "type": "delayed",
     "delay_days": 6,
     "min_volume_ratio": 5.16,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr":3.2,
     "note": "涨停前 6 天量比最大信号触发（量比=5.16）"
   },
   "300720": {
@@ -226,7 +226,7 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 0.8,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 0.5,
     "note": "涨停前 1 天量比最大信号触发（量比=0.8）"
   },
   "300739": {
@@ -234,7 +234,7 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 2.22,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 1.2,
     "note": "涨停前 1 天量比最大信号触发（量比=2.22）"
   },
   "300811": {
@@ -242,31 +242,31 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 2.38,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 1.2,
     "note": "涨停前 1 天量比最大信号触发（量比=2.38）"
   },
   "300868": {
     "name": "杰美特",
     "type": "delayed",
-    "delay_days": 1,
-    "min_volume_ratio": 2.3,
-    "target_day_min_vr": 0.2,
-    "note": "涨停前 1 天量比最大信号触发（量比=2.3）"
+    "delay_days": 2,
+    "min_volume_ratio": 1.51,
+    "target_day_min_vr": 1.2,
+    "note": "涨停前 2 天量比最大信号触发（量比=1.51）"
   },
   "301018": {
     "name": "申菱环境",
     "type": "delayed",
-    "delay_days": 1,
-    "min_volume_ratio": 2.17,
-    "target_day_min_vr": 0.2,
-    "note": "涨停前 1 天量比最大信号触发（量比=2.17）"
+    "delay_days": 2,
+    "min_volume_ratio": 1.78,
+    "target_day_min_vr": 1.2,
+    "note": "涨停前 2 天量比最大信号触发（量比=1.78）"
   },
   "301120": {
     "name": "新特电器",
     "type": "delayed",
     "delay_days": 5,
     "min_volume_ratio": 10.65,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 2.2,
     "note": "涨停前 5 天量比最大信号触发（量比=10.65）"
   },
   "301158": {
@@ -274,7 +274,7 @@
     "type": "delayed",
     "delay_days": 3,
     "min_volume_ratio": 2.58,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 2.2,
     "note": "涨停前 3 天量比最大信号触发（量比=2.58）"
   },
   "301165": {
@@ -282,31 +282,31 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 0.78,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 0.5,
     "note": "涨停前 1 天量比最大信号触发（量比=0.78）"
   },
   "301226": {
     "name": "祥明智能",
     "type": "delayed",
-    "delay_days": 1,
-    "min_volume_ratio": 3.57,
-    "target_day_min_vr": 0.2,
-    "note": "涨停前 1 天量比最大信号触发（量比=3.57）"
+    "delay_days": 3,
+    "min_volume_ratio": 2.12,
+    "target_day_min_vr": 1.2,
+    "note": "涨停前 3 天量比最大信号触发（量比=2.12）"
   },
   "301281": {
     "name": "利源制药",
     "type": "delayed",
-    "delay_days": 3,
-    "min_volume_ratio": 1.99,
-    "target_day_min_vr": 0.2,
-    "note": "涨停前 3 天量比最大信号触发（量比=1.99）"
+    "delay_days": 4,
+    "min_volume_ratio": 2.11,
+    "target_day_min_vr": 1.2,
+    "note": "涨停前 4 天量比最大信号触发（量比=2.11）"
   },
   "301358": {
     "name": "湖南裕能",
     "type": "delayed",
     "delay_days": 7,
     "min_volume_ratio": 0.81,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 0.6,
     "note": "涨停前 7 天量比最大信号触发（量比=0.81）"
   },
   "301361": {
@@ -314,7 +314,7 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 4.63,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 3.2,
     "note": "涨停前 1 天量比最大信号触发（量比=4.63）"
   },
   "301389": {
@@ -322,23 +322,23 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 4.34,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 31.2,
     "note": "涨停前 1 天量比最大信号触发（量比=4.34）"
   },
   "301419": {
     "name": "瑞可达",
     "type": "delayed",
-    "delay_days": 1,
-    "min_volume_ratio": 0.73,
-    "target_day_min_vr": 0.2,
-    "note": "涨停前 1 天量比最大信号触发（量比=0.73）"
+    "delay_days": 2,
+    "min_volume_ratio": 1.86,
+    "target_day_min_vr": 1.2,
+    "note": "涨停前 2 天量比最大信号触发（量比=1.86）"
   },
   "301658": {
     "name": "首航新能",
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 0.9,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 0.35,
     "note": "涨停前 1 天量比最大信号触发（量比=0.9）"
   },
   "301667": {
@@ -346,7 +346,7 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 2.71,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 1.2,
     "note": "涨停前 1 天量比最大信号触发（量比=2.71）"
   },
   "600410": {
@@ -354,7 +354,7 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 1.44,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 1.2,
     "note": "涨停前 1 天量比最大信号触发（量比=1.44）"
   },
   "600519": {
@@ -368,7 +368,7 @@
     "type": "delayed",
     "delay_days": 3,
     "min_volume_ratio": 1.2,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 0.8,
     "note": "涨停前 3 天量比最大信号触发（量比=1.2）"
   },
   "600726": {
@@ -376,7 +376,7 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 1.26,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 0.8,
     "note": "涨停前 1 天量比最大信号触发（量比=1.26）"
   },
   "600815": {
@@ -392,7 +392,7 @@
     "type": "delayed",
     "delay_days": 6,
     "min_volume_ratio": 1.47,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 1.2,
     "note": "涨停前 6 天量比最大信号触发（量比=1.47）"
   },
   "601016": {
@@ -400,7 +400,7 @@
     "type": "delayed",
     "delay_days": 5,
     "min_volume_ratio": 2.66,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 1.2,
     "note": "涨停前 5 天量比最大信号触发（量比=2.66）"
   },
   "603353": {
@@ -408,7 +408,7 @@
     "type": "delayed",
     "delay_days": 6,
     "min_volume_ratio": 1.58,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 1.2,
     "note": "涨停前 6 天量比最大信号触发（量比=1.58）"
   },
   "603538": {
@@ -416,7 +416,7 @@
     "type": "delayed",
     "delay_days": 6,
     "min_volume_ratio": 2.29,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 1.2,
     "note": "涨停前 6 天量比最大信号触发（量比=2.29）"
   },
   "603920": {
@@ -424,7 +424,7 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 0.65,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 0.5,
     "note": "涨停前 1 天量比最大信号触发（量比=0.65）"
   },
   "688392": {
@@ -432,7 +432,7 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 1.68,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 1.2,
     "note": "涨停前 1 天量比最大信号触发（量比=1.68）"
   },
   "688667": {
@@ -440,7 +440,7 @@
     "type": "delayed",
     "delay_days": 2,
     "min_volume_ratio": 14.82,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 1.2,
     "note": "涨停前 2 天量比最大信号触发（量比=14.82）"
   },
   "default": {
@@ -453,23 +453,23 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 1.3,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 1.2,
     "note": "涨停前 1 天量比最大信号触发（量比=1.3）"
   },
   "300259": {
     "name": "新天科技",
     "type": "delayed",
     "delay_days": 3,
-    "min_volume_ratio": 8.98,
-    "target_day_min_vr": 0.2,
-    "note": "涨停前 3 天量比最大信号触发（量比=8.98）"
+    "min_volume_ratio": 11.98,
+    "target_day_min_vr": 7.2,
+    "note": "涨停前 3 天量比最大信号触发（量比=11.98）"
   },
   "300763": {
     "name": "锦浪科技",
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 2.52,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 1.2,
     "note": "涨停前 1 天量比最大信号触发（量比=2.52）"
   },
   "000338": {
@@ -477,7 +477,7 @@
     "type": "delayed",
     "delay_days": 6,
     "min_volume_ratio": 0.56,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 0.4,
     "note": "涨停前 6 天量比最大信号触发（量比=0.56）"
   },
   "300364": {
@@ -493,7 +493,7 @@
     "type": "delayed",
     "delay_days": 3,
     "min_volume_ratio": 1.36,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 1.2,
     "note": "涨停前 3 天量比最大信号触发（量比=1.36）"
   },
   "301278": {
@@ -507,17 +507,17 @@
   "301171": {
     "name": "易点天下",
     "type": "delayed",
-    "delay_days": 1,
-    "min_volume_ratio": 4.27,
-    "target_day_min_vr": 0.2,
-    "note": "涨停前 1 天量比最大信号触发（量比=4.27）"
+    "delay_days": 2,
+    "min_volume_ratio": 3.67,
+    "target_day_min_vr": 2.2,
+    "note": "涨停前 2 天量比最大信号触发（量比=3.67）"
   },
   "688295": {
     "name": "中复神鹰",
     "type": "delayed",
     "delay_days": 2,
     "min_volume_ratio": 2.81,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 2.2,
     "note": "涨停前 2 天量比最大信号触发（量比=2.81）"
   },
   "301458": {
@@ -525,7 +525,7 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 0.92,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 0.6,
     "note": "涨停前 1 天量比最大信号触发（量比=0.92）"
   },
   "301319": {
@@ -533,7 +533,7 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 1.24,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 0.6,
     "note": "涨停前 1 天量比最大信号触发（量比=1.24）"
   },
   "688025": {
@@ -541,7 +541,7 @@
     "type": "delayed",
     "delay_days": 3,
     "min_volume_ratio": 1.5,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 1.2,
     "note": "涨停前 3 天量比最大信号触发（量比=1.5）"
   },
   "600962": {
@@ -549,7 +549,7 @@
     "type": "delayed",
     "delay_days": 7,
     "min_volume_ratio": 9.01,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 6.2,
     "note": "涨停前 7 天量比最大信号触发（量比=9.01）"
   },
   "603052": {
@@ -557,7 +557,7 @@
     "type": "delayed",
     "delay_days": 5,
     "min_volume_ratio": 2.28,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 1.2,
     "note": "涨停前 5 天量比最大信号触发（量比=2.28）"
   },
   "002273": {
@@ -565,39 +565,39 @@
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 4.49,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 3.2,
     "note": "涨停前 1 天量比最大信号触发（量比=4.49）"
   },
   "002585": {
     "name": "双星新材",
     "type": "delayed",
-    "delay_days": 1,
-    "min_volume_ratio": 1.43,
-    "target_day_min_vr": 0.2,
-    "note": "涨停前 1 天量比最大信号触发（量比=1.43）"
+    "delay_days": 3,
+    "min_volume_ratio": 1.63,
+    "target_day_min_vr": 0.8,
+    "note": "涨停前3天量比最大信号触发（量比=1.63）"
   },
   "002940": {
     "name": "昂利康",
     "type": "delayed",
     "delay_days": 1,
     "min_volume_ratio": 4.47,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 2.2,
     "note": "涨停前 1 天量比最大信号触发（量比=4.47）"
   },
   "603663": {
     "name": "三祥新材",
     "type": "delayed",
-    "delay_days": 1,
-    "min_volume_ratio": 20.47,
-    "target_day_min_vr": 0.2,
-    "note": "涨停前 1 天量比最大信号触发（量比=20.47）"
+    "delay_days": 3,
+    "min_volume_ratio": 0.94,
+    "target_day_min_vr": 0.8,
+    "note": "涨停前3天量比最大信号触发（量比=0.94）"
   },
   "603178": {
     "name": "圣龙股份",
     "type": "delayed",
     "delay_days": 3,
     "min_volume_ratio": 1.98,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 1.2,
     "note": "涨停前 3 天量比最大信号触发（量比=1.98）"
   },
   "601991": {
@@ -605,7 +605,7 @@
     "type": "delayed",
     "delay_days": 5,
     "min_volume_ratio": 1.25,
-    "target_day_min_vr": 0.2,
+    "target_day_min_vr": 0.9,
     "note": "涨停前 5 天量比最大信号触发（量比=1.25）"
   },
   "301128": {
@@ -613,7 +613,327 @@
     "type": "delayed",
     "delay_days": 3,
     "min_volume_ratio": 1.33,
+    "target_day_min_vr": 1.2,
+    "note": "涨停前3天量比最大信号触发（量比=1.33）"
+  },
+  "600459": {
+    "name": "贵研铂业",
+    "type": "delayed",
+    "delay_days": 1,
+    "min_volume_ratio": 0.55,
+    "target_day_min_vr": 0.4,
+    "note": "涨停前1天量比最大信号触发（量比=0.55）"
+  },
+  "002137": {
+    "name": "实益达",
+    "type": "delayed",
+    "delay_days": 3,
+    "min_volume_ratio": 1.42,
+    "target_day_min_vr": 1.2,
+    "note": "涨停前3天量比最大信号触发（量比=1.42）"
+  },
+  "301310": {
+    "name": "鑫宏业",
+    "type": "delayed",
+    "delay_days": 7,
+    "min_volume_ratio": 1.14,
+    "target_day_min_vr": 0.8,
+    "note": "涨停前7天量比最大信号触发（量比=1.14）"
+  },
+  "300570": {
+    "name": "太辰光",
+    "type": "delayed",
+    "delay_days": 3,
+    "min_volume_ratio": 3.15,
+    "target_day_min_vr": 2.2,
+    "note": "涨停前3天量比最大信号触发（量比=3.15）"
+  },
+  "600378": {
+    "name": "昊华科技",
+    "type": "delayed",
+    "delay_days": 1,
+    "min_volume_ratio": 0.39,
     "target_day_min_vr": 0.2,
-    "note": "涨停前 3 天量比最大信号触发（量比=1.33）"
+    "note": "涨停前1天量比最大信号触发（量比=0.39）"
+  },
+  "603124": {
+    "name": "江南新材",
+    "type": "delayed",
+    "delay_days": 2,
+    "min_volume_ratio": 2.1,
+    "target_day_min_vr": 1.2,
+    "note": "涨停前2天量比最大信号触发（量比=2.10）"
+  },
+  "301188": {
+    "name": "力诺药包",
+    "type": "delayed",
+    "delay_days": 1,
+    "min_volume_ratio": 0.27,
+    "target_day_min_vr": 0.2,
+    "note": "涨停前1天量比最大信号触发（量比=0.27）"
+  },
+  "301366": {
+    "name": "一博科技",
+    "type": "delayed",
+    "delay_days": 1,
+    "min_volume_ratio": 0.77,
+    "target_day_min_vr": 0.2,
+    "note": "涨停前1天量比最大信号触发（量比=0.77）"
+  },
+  "600396": {
+    "name": "华电辽能",
+    "type": "delayed",
+    "delay_days": 1,
+    "min_volume_ratio": 0.22,
+    "target_day_min_vr": 0.2,
+    "note": "涨停前1天量比最大信号触发（量比=0.22）"
+  },
+  "301282": {
+    "name": "金禄电子",
+    "type": "delayed",
+    "delay_days": 1,
+    "min_volume_ratio": 1.08,
+    "target_day_min_vr": 0.7,
+    "note": "涨停前1天量比最大信号触发（量比=1.08）"
+  },
+  "605358": {
+    "name": "立昂微",
+    "type": "delayed",
+    "delay_days": 3,
+    "min_volume_ratio": 4.44,
+    "target_day_min_vr": 3.2,
+    "note": "涨停前3天量比最大信号触发（量比=4.44）"
+  },
+  "688519": {
+    "name": "南亚新材",
+    "type": "delayed",
+    "delay_days": 3,
+    "min_volume_ratio": 2.35,
+    "target_day_min_vr": 1.2,
+    "note": "涨停前3天量比最大信号触发（量比=2.35）"
+  },
+  "605376": {
+    "name": "博迁新材",
+    "type": "delayed",
+    "delay_days": 3,
+    "min_volume_ratio": 0.9,
+    "target_day_min_vr": 0.6,
+    "note": "涨停前3天量比最大信号触发（量比=0.90）"
+  },
+  "603303": {
+    "name": "得邦照明",
+    "type": "delayed",
+    "delay_days": 3,
+    "min_volume_ratio": 2.43,
+    "target_day_min_vr": 1.2,
+    "note": "涨停前3天量比最大信号触发（量比=2.43）"
+  },
+  "603155": {
+    "name": "新亚强",
+    "type": "delayed",
+    "delay_days": 1,
+    "min_volume_ratio": 0.7,
+    "target_day_min_vr": 0.6,
+    "note": "涨停前1天量比最大信号触发（量比=0.70）"
+  },
+  "600869": {
+    "name": "远东股份",
+    "type": "delayed",
+    "delay_days": 3,
+    "min_volume_ratio": 0.74,
+    "target_day_min_vr": 0.5,
+    "note": "涨停前3天量比最大信号触发（量比=0.74）"
+  },
+  "688090": {
+    "name": "瑞松科技",
+    "type": "delayed",
+    "delay_days": 1,
+    "min_volume_ratio": 0.89,
+    "target_day_min_vr": 0.5,
+    "note": "涨停前1天量比最大信号触发（量比=0.89）"
+  },
+  "000970": {
+    "name": "中科三环",
+    "type": "delayed",
+    "delay_days": 1,
+    "min_volume_ratio": 0.64,
+    "target_day_min_vr": 0.4,
+    "note": "涨停前1天量比最大信号触发（量比=0.64）"
+  },
+  "002842": {
+    "name": "翔鹭钨业",
+    "type": "delayed",
+    "delay_days": 2,
+    "min_volume_ratio": 1.33,
+    "target_day_min_vr": 1.2,
+    "note": "涨停前2天量比最大信号触发（量比=1.33）"
+  },
+  "002931": {
+    "name": "锋龙股份",
+    "type": "delayed",
+    "delay_days": 1,
+    "min_volume_ratio": 0.55,
+    "target_day_min_vr": 0.2,
+    "note": "涨停前1天量比最大信号触发（量比=0.55）"
+  },
+  "688596": {
+    "name": "正帆科技",
+    "type": "delayed",
+    "delay_days": 3,
+    "min_volume_ratio": 5.81,
+    "target_day_min_vr": 4.2,
+    "note": "涨停前3天量比最大信号触发（量比=5.81）"
+  },
+  "301678": {
+    "name": "新恒汇",
+    "type": "delayed",
+    "delay_days": 2,
+    "min_volume_ratio": 2.26,
+    "target_day_min_vr": 1.2,
+    "note": "涨停前2天量比最大信号触发（量比=2.26）"
+  },
+  "688669": {
+    "name": "聚石化学",
+    "type": "delayed",
+    "delay_days": 2,
+    "min_volume_ratio": 1.48,
+    "target_day_min_vr": 1.2,
+    "note": "涨停前2天量比最大信号触发（量比=1.48）"
+  },
+  "600226": {
+    "name": "亨通股份",
+    "type": "delayed",
+    "delay_days": 1,
+    "min_volume_ratio": 0.91,
+    "target_day_min_vr": 0.6,
+    "note": "涨停前1天量比最大信号触发（量比=0.91）"
+  },
+  "301611": {
+    "name": "珂玛科技",
+    "type": "delayed",
+    "delay_days": 2,
+    "min_volume_ratio": 3.0,
+    "target_day_min_vr": 2.2,
+    "note": "涨停前2天量比最大信号触发（量比=3.00）"
+  },
+  "301217": {
+    "name": "铜冠铜箔",
+    "type": "delayed",
+    "delay_days": 2,
+    "min_volume_ratio": 1.73,
+    "target_day_min_vr": 1.2,
+    "note": "涨停前2天量比最大信号触发（量比=1.73）"
+  },
+  "688432": {
+    "name": "有研硅",
+    "type": "delayed",
+    "delay_days": 3,
+    "min_volume_ratio": 1.22,
+    "target_day_min_vr": 0.9,
+    "note": "涨停前3天量比最大信号触发（量比=1.22）"
+  },
+  "600667": {
+    "name": "太极实业",
+    "type": "delayed",
+    "delay_days": 1,
+    "min_volume_ratio": 0.74,
+    "target_day_min_vr": 0.5,
+    "note": "涨停前1天量比最大信号触发（量比=0.74）"
+  },
+  "603078": {
+    "name": "江化微",
+    "type": "delayed",
+    "delay_days": 3,
+    "min_volume_ratio": 2.14,
+    "target_day_min_vr": 1.2,
+    "note": "涨停前3天量比最大信号触发（量比=2.14）"
+  },
+  "688403": {
+    "name": "汇成股份",
+    "type": "delayed",
+    "delay_days": 1,
+    "min_volume_ratio": 0.83,
+    "target_day_min_vr": 0.6,
+    "note": "涨停前1天量比最大信号触发（量比=0.83）"
+  },
+  "600458": {
+    "name": "时代新材",
+    "type": "delayed",
+    "delay_days": 6,
+    "min_volume_ratio": 3.66,
+    "target_day_min_vr": 2.2,
+    "note": "涨停前6天量比最大信号触发（量比=3.66）"
+  },
+  "300806": {
+    "name": "斯迪克",
+    "type": "delayed",
+    "delay_days": 2,
+    "min_volume_ratio": 1.06,
+    "target_day_min_vr": 0.7,
+    "note": "涨停前 2 天量比最大信号触发（量比=1.06）"
+  },
+  "301392": {
+    "name": "汇成真空",
+    "type": "delayed",
+    "delay_days": 1,
+    "min_volume_ratio": 0.91,
+    "target_day_min_vr": 0.7,
+    "note": "涨停前 1 天量比最大信号触发（量比=0.91）"
+  },
+  "000636": {
+    "name": "风华高科",
+    "type": "delayed",
+    "delay_days": 2,
+    "min_volume_ratio": 3.46,
+    "target_day_min_vr": 2.2,
+    "note": "涨停前 2 天量比最大信号触发（量比=3.46）"
+  },
+  "301297": {
+    "name": "富乐德",
+    "type": "delayed",
+    "delay_days": 1,
+    "min_volume_ratio": 0.39,
+    "target_day_min_vr": 0.2,
+    "note": "涨停前1天量比最大信号触发（量比=0.39）"
+  },
+  "603120": {
+    "name": "肯特催化",
+    "type": "delayed",
+    "delay_days": 1,
+    "min_volume_ratio": 0.23,
+    "target_day_min_vr": 0.2,
+    "note": "涨停前1天量比最大信号触发（量比=0.23）"
+  },
+  "300964": {
+    "name": "本川智能",
+    "type": "delayed",
+    "delay_days": 3,
+    "min_volume_ratio": 0.33,
+    "target_day_min_vr": 0.2,
+    "note": "涨停前3天量比最大信号触发（量比=0.33）"
+  },
+  "002654": {
+    "name": "万润科技",
+    "type": "delayed",
+    "delay_days": 1,
+    "min_volume_ratio": 0.87,
+    "target_day_min_vr": 0.6,
+    "note": "涨停前1天量比最大信号触发（量比=0.87）"
+  },
+  "000733": {
+    "name": "振华科技",
+    "type": "delayed",
+    "delay_days": 1,
+    "min_volume_ratio": 0.72,
+    "target_day_min_vr": 0.5,
+    "note": "涨停前1天量比最大信号触发（量比=0.72）"
+  },
+  "603738": {
+    "name": "泰晶科技",
+    "type": "delayed",
+    "delay_days": 4,
+    "min_volume_ratio": 1.15,
+    "target_day_min_vr": 0.6,
+    "note": "涨停前4天量比最大信号触发（量比=1.15）"
   }
 }

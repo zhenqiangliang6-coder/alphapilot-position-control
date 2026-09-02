@@ -79,7 +79,7 @@ class PositionControl:
     
     POSITION_CLASS_MAP = {
         'position-high': {'label': '100%', 'signal': 1},
-        'position-medium': {'label': '50%', 'signal': 0},
+        'position-medium': {'label': '50%', 'signal': 0}, # ✅ 将50%改为25%
         'position-low': {'label': '30%', 'signal': -1}
     }
     
@@ -170,7 +170,7 @@ class PositionControl:
         if self.position_signal == 1:
             self.position_ratio = 1.0
         elif self.position_signal == 0:
-            self.position_ratio = 0.5
+            self.position_ratio =0.5 # ✅ 将50%改为25%
         elif self.position_signal == -1:
             self.position_ratio = 0.3
         else:

@@ -1,214 +1,27 @@
 {
-  "last_update": "2026-06-04 14:33:30",
+  "last_update": "2026-09-02 14:19:58",
   "watchlist": {
-    "SZSE.000338": {
-      "name": "潍柴动力",
+    "SHSE.603120": {
+      "name": "肯特催化",
       "action": "BUY",
-      "signal_date": "2026-05-28",
-      "target_date": "2026-06-05",
-      "trigger_price": 35.07,
-      "trigger_volume_ratio": 0.9,
+      "signal_date": "2026-09-01",
+      "target_date": "2026-09-02",
+      "trigger_price": 45.77,
+      "trigger_volume_ratio": 1.43,
       "target_day_min_vr": 0.2,
       "status": "waiting",
-      "delay_days": 6
+      "delay_days": 1
     },
-    "SZSE.301358": {
-      "name": "湖南裕能",
+    "SZSE.300964": {
+      "name": "本川智能",
       "action": "BUY",
-      "signal_date": "2026-05-28",
-      "target_date": "2026-06-08",
-      "trigger_price": 87.98,
+      "signal_date": "2026-09-01",
+      "target_date": "2026-09-04",
+      "trigger_price": 58.22,
       "trigger_volume_ratio": 1.39,
       "target_day_min_vr": 0.2,
       "status": "waiting",
-      "delay_days": 7
-    },
-    "SZSE.002364": {
-      "name": "中恒电器",
-      "action": "BUY",
-      "signal_date": "2026-05-29",
-      "target_date": "2026-06-08",
-      "trigger_price": 57.17,
-      "trigger_volume_ratio": 0.43,
-      "target_day_min_vr": 0.2,
-      "status": "waiting",
-      "delay_days": 6
-    },
-    "SZSE.301128": {
-      "name": "强瑞技术",
-      "action": "BUY",
-      "signal_date": "2026-06-03",
-      "target_date": "2026-06-08",
-      "trigger_price": 142.02,
-      "trigger_volume_ratio": 3.97,
-      "target_day_min_vr": 0.2,
-      "status": "waiting",
       "delay_days": 3
-    },
-    "SHSE.600722": {
-      "name": "金牛化工",
-      "action": "BUY",
-      "signal_date": "2026-06-03",
-      "target_date": "2026-06-08",
-      "trigger_price": 10.35,
-      "trigger_volume_ratio": 1.25,
-      "target_day_min_vr": 0.2,
-      "status": "waiting",
-      "delay_days": 3
-    },
-    "SZSE.301281": {
-      "name": "利源制药",
-      "action": "BUY",
-      "signal_date": "2026-06-03",
-      "target_date": "2026-06-08",
-      "trigger_price": 44.7,
-      "trigger_volume_ratio": 2.92,
-      "target_day_min_vr": 0.2,
-      "status": "waiting",
-      "delay_days": 3
-    },
-    "SZSE.002828": {
-      "name": "贝肯能源",
-      "action": "BUY",
-      "signal_date": "2026-06-03",
-      "target_date": "2026-06-08",
-      "trigger_price": 9.58,
-      "trigger_volume_ratio": 7.11,
-      "target_day_min_vr": 0.2,
-      "status": "waiting",
-      "delay_days": 3
-    },
-    "SHSE.601016": {
-      "name": "节能风电",
-      "action": "BUY",
-      "signal_date": "2026-06-03",
-      "target_date": "2026-06-10",
-      "trigger_price": 4.96,
-      "trigger_volume_ratio": 3.94,
-      "target_day_min_vr": 0.2,
-      "status": "waiting",
-      "delay_days": 5
-    },
-    "SHSE.601991": {
-      "name": "大唐发电",
-      "action": "BUY",
-      "signal_date": "2026-06-03",
-      "target_date": "2026-06-10",
-      "trigger_price": 9.68,
-      "trigger_volume_ratio": 3.16,
-      "target_day_min_vr": 0.2,
-      "status": "waiting",
-      "delay_days": 5
-    },
-    "SZSE.300868": {
-      "name": "杰美特",
-      "action": "BUY",
-      "signal_date": "2026-06-04",
-      "target_date": "2026-06-05",
-      "trigger_price": 124.31,
-      "trigger_volume_ratio": 3.04,
-      "target_day_min_vr": 0.2,
-      "status": "waiting",
-      "delay_days": 1
-    },
-    "SZSE.301419": {
-      "name": "瑞可达",
-      "action": "BUY",
-      "signal_date": "2026-06-04",
-      "target_date": "2026-06-05",
-      "trigger_price": 47.54,
-      "trigger_volume_ratio": 0.75,
-      "target_day_min_vr": 0.2,
-      "status": "waiting",
-      "delay_days": 1
-    },
-    "SHSE.600821": {
-      "name": "金发科技",
-      "action": "BUY",
-      "signal_date": "2026-06-04",
-      "target_date": "2026-06-12",
-      "trigger_price": 8.63,
-      "trigger_volume_ratio": 4.73,
-      "target_day_min_vr": 0.2,
-      "status": "waiting",
-      "delay_days": 6
-    },
-    "SHSE.600726": {
-      "name": "华电能源",
-      "action": "BUY",
-      "signal_date": "2026-06-04",
-      "target_date": "2026-06-05",
-      "trigger_price": 10.34,
-      "trigger_volume_ratio": 4.88,
-      "target_day_min_vr": 0.2,
-      "status": "waiting",
-      "delay_days": 1
-    },
-    "SZSE.002980": {
-      "name": "华盛昌",
-      "action": "BUY",
-      "signal_date": "2026-06-04",
-      "target_date": "2026-06-08",
-      "trigger_price": 127.2,
-      "trigger_volume_ratio": 0.92,
-      "target_day_min_vr": 0.2,
-      "status": "waiting",
-      "delay_days": 2
-    },
-    "SZSE.301018": {
-      "name": "申菱环境",
-      "action": "BUY",
-      "signal_date": "2026-06-04",
-      "target_date": "2026-06-05",
-      "trigger_price": 101.49,
-      "trigger_volume_ratio": 4.16,
-      "target_day_min_vr": 0.2,
-      "status": "waiting",
-      "delay_days": 1
-    },
-    "SZSE.301361": {
-      "name": "新洁能源",
-      "action": "BUY",
-      "signal_date": "2026-06-04",
-      "target_date": "2026-06-05",
-      "trigger_price": 35.59,
-      "trigger_volume_ratio": 5.21,
-      "target_day_min_vr": 0.2,
-      "status": "waiting",
-      "delay_days": 1
-    },
-    "SZSE.300449": {
-      "name": "汉邦高科",
-      "action": "BUY",
-      "signal_date": "2026-06-04",
-      "target_date": "2026-06-09",
-      "trigger_price": 7.92,
-      "trigger_volume_ratio": 4.21,
-      "target_day_min_vr": 0.2,
-      "status": "waiting",
-      "delay_days": 3
-    },
-    "SHSE.688392": {
-      "name": "娇成超声",
-      "action": "BUY",
-      "signal_date": "2026-06-04",
-      "target_date": "2026-06-05",
-      "trigger_price": 165.77,
-      "trigger_volume_ratio": 1.77,
-      "target_day_min_vr": 0.2,
-      "status": "waiting",
-      "delay_days": 1
-    },
-    "SZSE.001309": {
-      "name": "德利明",
-      "action": "BUY",
-      "signal_date": "2026-06-04",
-      "target_date": "2026-06-05",
-      "trigger_price": 679.12,
-      "trigger_volume_ratio": 3.84,
-      "target_day_min_vr": 0.2,
-      "status": "waiting",
-      "delay_days": 1
     }
   }
 }

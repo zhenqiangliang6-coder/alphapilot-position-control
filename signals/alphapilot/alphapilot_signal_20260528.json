@@ -1,0 +1,70 @@
+{
+  "status": "success",
+  "version": "2.0",
+  "generated_at": "2026-05-28 17:35:56",
+  "system": "AlphaPilot Quantitative Expert System",
+  "market_strategy": {
+    "overall": "偏多",
+    "recommended_position": 0.8,
+    "bullish_count": 2,
+    "bearish_count": 0
+  },
+  "total_capital": 100000,
+  "signals": [
+    {
+      "id": "AP_SZSE_399001_20260528",
+      "timestamp": "2026-05-28 17:35:56",
+      "strategy": "AlphaPilot_ETF",
+      "symbol": "159901",
+      "name": "深成指ETF",
+      "action": "HOLD",
+      "quantity": 0,
+      "confidence": 0.4,
+      "reason": "上涨 (置信度:40%)",
+      "source": "alphapilot_forecast",
+      "forecast_data": {
+        "index_symbol": "SZSE.399001",
+        "index_direction": "上涨",
+        "index_confidence": 0.4,
+        "index_allocation": 0.5
+      }
+    },
+    {
+      "id": "AP_SHSE_000300_20260528",
+      "timestamp": "2026-05-28 17:35:56",
+      "strategy": "AlphaPilot_ETF",
+      "symbol": "510300",
+      "name": "沪深300ETF",
+      "action": "BUY",
+      "quantity": 900,
+      "confidence": 0.7,
+      "reason": "上涨 (置信度:70%)",
+      "source": "alphapilot_forecast",
+      "forecast_data": {
+        "index_symbol": "SHSE.000300",
+        "index_direction": "上涨",
+        "index_confidence": 0.7,
+        "index_allocation": 1.0
+      }
+    },
+    {
+      "id": "AP_SHSE_000001_20260528",
+      "timestamp": "2026-05-28 17:35:56",
+      "strategy": "AlphaPilot_ETF",
+      "symbol": "510050",
+      "name": "上证50ETF",
+      "action": "HOLD",
+      "quantity": 0,
+      "confidence": 0.5,
+      "reason": "横盘 (置信度:50%)",
+      "source": "alphapilot_forecast",
+      "forecast_data": {
+        "index_symbol": "SHSE.000001",
+        "index_direction": "横盘",
+        "index_confidence": 0.5,
+        "index_allocation": 0.5
+      }
+    }
+  ],
+  "risk_warning": "以上预测仅供参考，不构成投资建议。投资有风险，入市需谨慎。"
+}
